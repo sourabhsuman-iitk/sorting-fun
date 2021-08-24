@@ -97,7 +97,7 @@ export default class SortingVisualizer extends React.Component {
       <div className="main-container">
         <div className="toolbar">
           <a id="nav-links" href="https://sourabhsuman.netlify.app/#about">About Me</a>
-          <a id="nav-links" href="https://sourabhsuman.netlify.app/#projects">My Pojects</a>
+          <a id="nav-links" href="https://sourabhsuman.netlify.app/#projects">My Projects</a>
           <a id="nav-links" href="https://sourabhsuman.netlify.app/#contact">Contact</a>
         </div>
         <div className="heading">
